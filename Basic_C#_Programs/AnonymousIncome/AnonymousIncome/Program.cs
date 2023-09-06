@@ -26,8 +26,8 @@ namespace AnonymousIncome
             Console.WriteLine("Hours Worked Per Week: ");
             string week2 = Console.ReadLine();//Takes hours per week input
             int Hweek2 = Convert.ToInt32(week2);//Converst so we cn do mth
-            double AnnualSalary1 = Hrate1 * Hweek1; //Creats the sallary to compare by
-            double AnnualSalary2 = Hrate2 * Hweek2;
+            double AnnualSalary1 = Hrate1 * Hweek1 * 52; //Creats the sallary to compare by
+            double AnnualSalary2 = Hrate2 * Hweek2 * 52;
             Console.WriteLine("Annual salary of Person 1:\n" + AnnualSalary1); //Prints the salary of both
             Console.WriteLine("Annual salary of Person 2:\n" + AnnualSalary2);
             Console.WriteLine("Does Person 1 make more money than Person 2?"); 
