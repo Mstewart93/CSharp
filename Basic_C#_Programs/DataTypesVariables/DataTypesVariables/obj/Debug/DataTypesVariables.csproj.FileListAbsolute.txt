@@ -1,0 +1,7 @@
+C:\Users\Jason\Documents\GitHub\CSharp\Basic_C#_Programs\DataTypesVariables\DataTypesVariables\bin\Debug\DataTypesVariables.exe.config
+C:\Users\Jason\Documents\GitHub\CSharp\Basic_C#_Programs\DataTypesVariables\DataTypesVariables\bin\Debug\DataTypesVariables.exe
+C:\Users\Jason\Documents\GitHub\CSharp\Basic_C#_Programs\DataTypesVariables\DataTypesVariables\bin\Debug\DataTypesVariables.pdb
+C:\Users\Jason\Documents\GitHub\CSharp\Basic_C#_Programs\DataTypesVariables\DataTypesVariables\obj\Debug\DataTypesVariables.csproj.AssemblyReference.cache
+C:\Users\Jason\Documents\GitHub\CSharp\Basic_C#_Programs\DataTypesVariables\DataTypesVariables\obj\Debug\DataTypesVariables.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Documents\GitHub\CSharp\Basic_C#_Programs\DataTypesVariables\DataTypesVariables\obj\Debug\DataTypesVariables.exe
+C:\Users\Jason\Documents\GitHub\CSharp\Basic_C#_Programs\DataTypesVariables\DataTypesVariables\obj\Debug\DataTypesVariables.pdb
