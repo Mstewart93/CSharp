@@ -14,14 +14,12 @@ namespace Insurance
             string Age = Console.ReadLine();
             int UserAge = Convert.ToInt32(Age);
             Console.WriteLine("Have you ever had a DUI? Please enter Yes or No.");
-            string DUI = Console.ReadLine();
+            bool DUI = Console.ReadLine().ToLower() == "yes";
             Console.WriteLine("How many speeding tickets do you have?");
-            string ticket = Console.ReadLine();
+            string ticket = Console.ReadLine().ToLower();
             int SpeedingTicket = Convert.ToInt32(ticket);
-            if (UserAge > 15 & DUI == "No" & SpeedingTicket < 3)
-                Console.WriteLine("Qualified? True");
-            else Console.WriteLine("Qualified? False");
-            Console.ReadLine();
+            bool qualified = ((Age>15) && !DUI && (ticket <=3));
+            Console.Readline();
         }
     }
 }
