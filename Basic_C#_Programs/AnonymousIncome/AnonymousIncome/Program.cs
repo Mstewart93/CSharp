@@ -31,7 +31,7 @@ namespace AnonymousIncome
             Console.WriteLine("Annual salary of Person 1:\n" + Salary); //Prints the salary of both
             Console.WriteLine("Annual salary of Person 2:\n" + Salary2);
             Console.WriteLine("Does Person 1 make more money than Person 2?"); 
-            bool turefalse = AnnualSalary1 > AnnualSalary2; //Makes the coprison
+            bool turefalse = Salary > Salary2; //Makes the coprison
             Console.WriteLine(turefalse); //prints the comprison
             Console.Read(); //keeps open till we close it
         }
