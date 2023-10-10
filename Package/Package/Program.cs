@@ -29,11 +29,12 @@ namespace Insurance
                  }
                  else {
                     Console.WriteLine("Package too big to be shipped via Package Express");} //if dimensions are too big it kicks it out.
+        }
         else { //if weight is to heavy kicks it here and ends it 
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
             }
         
-            }
+      
 
             Console.ReadLine();
 
