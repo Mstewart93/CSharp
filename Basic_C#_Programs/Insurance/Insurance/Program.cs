@@ -17,9 +17,8 @@ namespace Insurance
             Console.WriteLine("How many speeding tickets do you have?");
             string ticket = Console.ReadLine().ToLower();
             int SpeedingTicket = Convert.ToInt32(ticket);
-            bool qualified = ((UserAge>15) && !DUI && (SpeedingTicketicket <=3));
+            bool qualified = ((UserAge>15) && !DUI && (SpeedingTicket <=3));
             Console.WriteLine(qualified);
-            Console.Readline();
         }
     }
 }
