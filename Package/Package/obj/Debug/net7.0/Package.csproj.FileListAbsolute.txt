@@ -1,0 +1,15 @@
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/bin/Debug/net7.0/Package
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/bin/Debug/net7.0/Package.deps.json
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/bin/Debug/net7.0/Package.runtimeconfig.json
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/bin/Debug/net7.0/Package.dll
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/bin/Debug/net7.0/Package.pdb
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/obj/Debug/net7.0/Package.csproj.AssemblyReference.cache
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/obj/Debug/net7.0/Package.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/obj/Debug/net7.0/Package.AssemblyInfoInputs.cache
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/obj/Debug/net7.0/Package.AssemblyInfo.cs
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/obj/Debug/net7.0/Package.csproj.CoreCompileInputs.cache
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/obj/Debug/net7.0/Package.dll
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/obj/Debug/net7.0/refint/Package.dll
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/obj/Debug/net7.0/Package.pdb
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/obj/Debug/net7.0/Package.genruntimeconfig.cache
+/Users/melyssastewart/Documents/GitHub/CSharp/Package/Package/obj/Debug/net7.0/ref/Package.dll
