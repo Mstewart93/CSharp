@@ -15,15 +15,16 @@ namespace ConsoleAppsubmission
             //Add comments 
              int i = 0;
             do {
-                Console.Writeline("i = 0", i);
-                j = 10;
+                Console.WriteLine("i = " + i);
                 i++;
-                while (j <= 10)
-                {
-                    Console.Writeline("j = 10", i);
-                    j--;
-                }
             } while (i < 5);
+
+            int j = 0;
+            while j < 10;
+            {
+                Console.WriteLine(j);
+                j++;
+            }
         }
     }
 }
