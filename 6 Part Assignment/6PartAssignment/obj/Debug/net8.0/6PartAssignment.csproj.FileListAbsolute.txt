@@ -1,0 +1,5 @@
+/Users/melyssastewart/Documents/GitHub/CSharp/6 Part Assignment/6PartAssignment/obj/Debug/net8.0/6PartAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melyssastewart/Documents/GitHub/CSharp/6 Part Assignment/6PartAssignment/obj/Debug/net8.0/6PartAssignment.AssemblyInfoInputs.cache
+/Users/melyssastewart/Documents/GitHub/CSharp/6 Part Assignment/6PartAssignment/obj/Debug/net8.0/6PartAssignment.AssemblyInfo.cs
+/Users/melyssastewart/Documents/GitHub/CSharp/6 Part Assignment/6PartAssignment/obj/Debug/net8.0/6PartAssignment.csproj.CoreCompileInputs.cache
+/Users/melyssastewart/Documents/GitHub/CSharp/6 Part Assignment/6PartAssignment/obj/Debug/net8.0/6PartAssignment.sourcelink.json

@@ -20,7 +20,7 @@ namespace ConsoleAppsubmission
             } while (i < 5);
 
             int j = 0;
-            while j < 10;
+            while (j < 10)
             {
                 Console.WriteLine(j);
                 j++;

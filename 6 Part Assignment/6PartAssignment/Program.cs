@@ -12,15 +12,18 @@ namespace _6partassignment
         {
             // Assignment part one
             string []str1;
-            str1 = new string[5]{"Dogs","Chickens","Cats","Ducks","Cows"};
+            str1 = ["Dogs","Chickens","Cats","Ducks","Cows"];
             Console.WriteLine("Please enter your favorite animal bellow:  ");
-            string useranimal = Console.Readline;
-            for (string i in str1; i++) 
-            {
-             console.WriteLine(str1)   
-            }
+            string useranimal = Console.ReadLine;
+                for (int i = 0; i < str1.len; i++)
+{
+str1[i] = str1[i] + useranimal;
+}
             for (string i in str1; i++)
-            {console.WriteLine(str1 + useranimal)}
+            {Console.WriteLine(str1 + useranimal)};
+
+
+
 
 
             //Assignment Part 2 
