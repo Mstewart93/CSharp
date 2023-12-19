@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -14,12 +15,12 @@ namespace _6partassignment
             string []str1;
             str1 = ["Dogs","Chickens","Cats","Ducks","Cows"];
             Console.WriteLine("Please enter your favorite animal bellow:  ");
-            string useranimal = Console.ReadLine;
-                for (int i = 0; i < str1.len; i++)
+            string useranimal = Console.ReadLine();
+            for (int i = 0; i < str1.length; i++)
 {
-str1[i] = str1[i] + useranimal;
+                str1[i] = str1[i] + useranimal;
 }
-            for (string i in str1; i++)
+            for (int i in str1; i++)
             {Console.WriteLine(str1 + useranimal)};
 
 
@@ -27,20 +28,32 @@ str1[i] = str1[i] + useranimal;
 
 
             //Assignment Part 2 
-           // Add the following to your console app and perform these actions: 
-           //An infinite loop. Save your code. 
-           //Fix the infinite loop so that it will execute properly.
-        //Add comments to your code indicating how the infinite loop was fixed. 
-
-        Console.WriteLine();
+           
+        //x = 1;
+        //while (x == 1);
+        //Console.WriteLine("What is your name?");
+        //y = Console.ReadLine();
+        //Console.WriteLine()"Hello! Welcome";
+        //Since x will always equal 1 this will run constantly we need to change it to one that has an end
+        x = 5;
+        while (x > 0, x--){
+            Console.WriteLine("Please Enter Your name ");
+            Console.ReadLine(); 
+            Console.WriteLine("Welcome!");
+        }
+        
+       
 
         //Assignment part 3
-        //Add the following to your console app and perform these actions:
+        
         //A loop where the comparison that’s used to determine whether to continue iterating the loop is a “<” operator.
         //Add another loop where the comparison that’s used to determine whether to continue iterating the loop is a “<=” operator.
-
-
-        Console.WriteLine();
+        for (int i = 0; i < 10; i++)
+{
+            Console.WriteLine("Hello, this should post 9 times :)");
+}       
+        while (int i = 1; i <= 10; i++)
+            {Console.WriteLine("This should post 10 times however")};
 
         //Assignment Part 4
         //Add the following to your console app and perform these actions:
