@@ -56,15 +56,33 @@ namespace _6partassignment
             {Console.WriteLine("This should post 10 times however")};
 
         //Assignment Part 4
-        //Add the following to your console app and perform these actions:
+        
+        
         //A list of strings where each item in the list is unique.
-        //Ask the user to input text to search for in the list.
-        //A loop that iterates through the list and then displays the index of the list item that contains matching text on the screen.
-        //Add code to check if the user put in text that isn't on the list and, if they did, tell the user their input is not on the list. 
-        //Add code that stops the loop from executing once a match has been found.
-    
+        string []str2;
+        str2 = ['mouse','horse','leopard','zebra','orangatang']
+        
 
-        Console.WriteLine();
+        for (int i in str2; i++)
+            {Console.WriteLine("Let's see if your favorite animal is in the list. Please enter your favorite animal:   ");
+            string userinput = Console.ReadLine();
+            bool alreadyexists = str2.Contains(userinput)};
+            if bool = true (
+                
+            );
+
+        
+
+
+        //A loop that iterates through the list and then displays the index of the list item that contains matching text on the screen.
+
+        //Add code to check if the user put in text that isn't on the list and, if they did, tell the user their input is not on the list. 
+
+        //Add code that stops the loop from executing once a match has been found.
+
+        
+
+       
 
         //Assignment Part 5
        // Add the following to your console app and perform these actions:
@@ -74,6 +92,7 @@ namespace _6partassignment
 
 
         Console.WriteLine();
+
         //Assignment Part 6
         //Add the following to your console app and perform these actions:
         //Create a list of strings that has at least two identical strings in the list.
