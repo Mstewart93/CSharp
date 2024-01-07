@@ -16,7 +16,7 @@ namespace _6partassignment
             str1 = ["Dogs","Chickens","Cats","Ducks","Cows"];
             Console.WriteLine("Please enter your favorite animal bellow:  ");
             string useranimal = Console.ReadLine();
-            for (int i = 0; i < str1.length; i++)
+            for (int i = 0; i < str1.Length; i++)
 {
                 str1[i] = str1[i] + useranimal;
 }
@@ -35,8 +35,8 @@ namespace _6partassignment
         //y = Console.ReadLine();
         //Console.WriteLine()"Hello! Welcome";
         //Since x will always equal 1 this will run constantly we need to change it to one that has an end
-        x = 5;
-        while (x > 0, x--){
+     
+        while (int x = 5;,x > 0, x--){
             Console.WriteLine("Please Enter Your name ");
             Console.ReadLine(); 
             Console.WriteLine("Welcome!");
@@ -65,9 +65,17 @@ namespace _6partassignment
 
         for (int i in str2; i++)
             {Console.WriteLine("Let's see if your favorite animal is in the list. Please enter your favorite animal:   ");
-            string userinput = Console.ReadLine();
+            string userinput = Console.ReadLine().ToLower;
             bool alreadyexists = str2.Contains(userinput)};
-            if bool = true (
+                if (alreadyexists = true):
+                    {Console.WriteLine("");
+
+                    }
+                else
+                {
+                    
+                }
+                    
                 
             );
 
