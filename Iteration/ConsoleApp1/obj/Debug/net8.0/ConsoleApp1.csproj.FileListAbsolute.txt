@@ -1,0 +1,15 @@
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/melyssastewart/Documents/GitHub/CSharp/Iteration/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
