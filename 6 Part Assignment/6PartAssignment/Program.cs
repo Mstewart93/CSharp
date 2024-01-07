@@ -83,10 +83,6 @@ namespace _6partassignment
        
 
         //Assignment Part 5
-      
-    
-        //Add code to the loop to check if the user put in text that isn't on the list and, if they did, tells the user their input is not on the list. (You do not need to provide any additional chances for the user to enter text.)
-
 
        string[] color = ["red","orange","yellow","green","blue","purple","black","brown","gray","grey", "yellow"];
         Console.WriteLine("Please enter your favorite color bellow:  ");
@@ -104,17 +100,15 @@ namespace _6partassignment
         foreach (string z in color)
 
         {
-            if 
-        }
-        //Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list. For example, if you had a list of letters: {“A”, “B”, “C”, “D”, “C”}, you could have the following print to the screen:
-        //A - this item is unique
-        //B - this item is unique
-        //C - this item is unique
-        //D - this item is unique
-        //C - this item is a duplicate
-       
+            if (color.Equals(color[]) = true)
+            
+            {Console.WriteLine(color[z] + "This item is not Unique");}
 
-        Console.WriteLine();
+            else
+            Console.WriteLine(color[z]+ "This item is Unique")
+        }
+
+        Console.ReadLine();
         }
     }
 }
